@@ -3,7 +3,7 @@ import random
 import tkinter as tk
 from tkinter import messagebox
 
-
+ 
 class PasswordGeneratorApp(tk.Tk):
     def __init__(self):
         super().__init__()
